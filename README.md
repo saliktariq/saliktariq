@@ -1,16 +1,90 @@
-### Hi there 👋
-
-<!--
-**saliktariq/saliktariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salik Tariq - Software Engineer & Technical Writer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 960px;
+            margin: auto;
+            overflow: hidden;
+            padding: 0 20px;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0779e4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            margin: 0;
+        }
+        nav {
+            display: flex;
+            justify-content: space-around;
+            padding: 10px 0;
+            background: #444;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .about, .skills, .interests {
+            padding: 20px 0;
+        }
+        .project {
+            background: #fff;
+            color: #333;
+            margin: 20px 0;
+            padding: 15px;
+            border-left: #0779e4 4px solid;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Salik Tariq</h1>
+            <p>Professional Software Engineer and Aspiring Technical Writer</p>
+        </div>
+    </header>
+    <nav>
+        <div class="container">
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#interests">Interests</a>
+        </div>
+    </nav>
+    <section id="about" class="container about">
+        <h2>About Me</h2>
+        <p>I am a passionate Software Engineer with a keen interest in developing real-time and mission-critical systems. With a solid foundation in programming with C++ and Python, I am also exploring Android development using Kotlin. As an aspiring technical writer, I aim to share my knowledge and experiences to help others in the tech community.</p>
+    </section>
+    <section id="skills" class="container skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>C++ and Python programming</li>
+            <li>Real-time and mission-critical systems development</li>
+            <li>Android development with Kotlin</li>
+            <li>Technical writing</li>
+        </ul>
+    </section>
+    <section id="interests" class="container interests">
+        <h2>Interests</h2>
+        <p>I am deeply interested in leveraging technology to solve practical problems and make a significant impact. My current focus is on mobile application development and contributing to open source projects. I continuously seek opportunities to learn and grow in the fields of software engineering and technical communication.</p>
+    </section>
+    <footer class="container">
+        <p>Connect with me on <a href="https://github.com/yourGitHubUsername">GitHub</a>.</p>
+    </footer>
+</body>
+</html>
