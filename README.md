@@ -36,7 +36,7 @@
         <p>I am deeply interested in leveraging technology to solve practical problems and make a significant impact. My current focus is on mobile application development and contributing to open source projects. I continuously seek opportunities to learn and grow in the fields of software engineering and technical communication.</p>
     </section>
     <footer class="container">
-        <p>Connect with me on <a href="saliktariq@icloud.com">email</a>.</p>
+        <p>Connect with me on <a href="mailto:saliktariq@icloud.com">email</a>.</p>
     </footer>
 </body>
 </html>
