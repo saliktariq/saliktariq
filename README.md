@@ -4,53 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Salik Tariq - Software Engineer & Technical Writer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 960px;
-            margin: auto;
-            overflow: hidden;
-            padding: 0 20px;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #0779e4 3px solid;
-        }
-        header h1 {
-            text-align: center;
-            margin: 0;
-        }
-        nav {
-            display: flex;
-            justify-content: space-around;
-            padding: 10px 0;
-            background: #444;
-        }
-        nav a {
-            color: #fff;
-            text-decoration: none;
-        }
-        .about, .skills, .interests {
-            padding: 20px 0;
-        }
-        .project {
-            background: #fff;
-            color: #333;
-            margin: 20px 0;
-            padding: 15px;
-            border-left: #0779e4 4px solid;
-        }
-    </style>
 </head>
 <body>
     <header>
@@ -84,7 +37,7 @@
         <p>I am deeply interested in leveraging technology to solve practical problems and make a significant impact. My current focus is on mobile application development and contributing to open source projects. I continuously seek opportunities to learn and grow in the fields of software engineering and technical communication.</p>
     </section>
     <footer class="container">
-        <p>Connect with me on <a href="https://github.com/yourGitHubUsername">GitHub</a>.</p>
+        <p>Connect with me on <a href="saliktariq@icloud.com">email</a>.</p>
     </footer>
 </body>
 </html>
