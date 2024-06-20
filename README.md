@@ -20,7 +20,7 @@
     </nav>
     <section id="about" class="container about">
         <h2>About Me</h2>
-        <p>I am a passionate Software Engineer with a keen interest in developing real-time and mission-critical systems. With a solid foundation in programming with C++ and Python, I am also exploring Android development using Kotlin. As an aspiring technical writer, I aim to share my knowledge and experiences to help others in the tech community.</p>
+        <p>I am a passionate Software Engineer with a keen interest in developing real-time and mission-critical systems. With a solid foundation in programming with C++ and Python, I am also exploring Android development using Kotlin.</p>
     </section>
     <section id="skills" class="container skills">
         <h2>Skills</h2>
