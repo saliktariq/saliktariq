@@ -28,7 +28,6 @@
             <li>C++ and Python programming</li>
             <li>Real-time and mission-critical systems development</li>
             <li>Android development with Kotlin</li>
-
         </ul>
     </section>
     <section id="interests" class="container interests">
