@@ -8,7 +8,7 @@
     <header>
         <div class="container">
             <h1>Salik Tariq</h1>
-            <p>Professional Software Engineer and Aspiring Technical Writer</p>
+            <p>Professional Software Engineer</p>
         </div>
     </header>
     <nav>
